@@ -214,3 +214,17 @@ body {
     left: 0; 
     color: #2f9d6a; 
 }
+
+/* EARLY ACCESS */
+.early-access { 
+    padding: 100px 0; 
+    text-align: center; 
+}
+.ea-box { 
+    margin-top: 40px; 
+}
+.small-text { 
+    font-size: 14px; 
+    color: #888; 
+    margin: 5px 0; 
+}
